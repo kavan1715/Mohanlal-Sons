@@ -45,3 +45,6 @@ const Hero = () => {
 };
 
 export default Hero;
+
+// Reverted scroll-controlled frame animation to original static layout
+
